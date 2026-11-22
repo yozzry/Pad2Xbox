@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Data / local
+*.json
+*.log
+pad2xbox_map.json
+settings.json
+profiles/
+
+# Installer prereqs
+prereqs/
+*.exe
+*.zip
+
+# IDE
+.vscode/
+.idea/

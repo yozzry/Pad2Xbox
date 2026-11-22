@@ -1,0 +1,4 @@
+pygame
+vgamepad
+pystray
+pillow
